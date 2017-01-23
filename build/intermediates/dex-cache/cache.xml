@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7aded9604c41f85d01c3b4d2d6684a386c68ece6">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f4ceb3a0f1497bc2e834f629c658b8ddf731a97f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_b8db1aae27a4ec9a778953d31d445ecfaf325094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alexa\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_2cfb5bb72c457962f957fbab8e1b4ae4ec4c4995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_bf5f6a252fee49dacce767f06184af42e220075c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_592041de4cd4cf15335921914fd16161f39c74b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_1bd442af56ec596e590b42669fa93cf9a22c4e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b5957efa796f9876c2e758a0e056145468787eea">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6ea9d7240759b9ac66a37c874c743210d02a551c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_775c4fcd9b6b73a0cbc5495ec203d9726aace91a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_8caff4424e007134ba9018d890be374f219c3227\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_292a0da7d2e88b3c2a539bc8d1be5f921c576b43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alexa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_e3c5dab94b036af555109ddd87629c7e9aaa4cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alexa\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_2b496850cae01569569e13ee92891ca503a15225\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_128363bcb136979fb8a62c4f3b0f4c35f334da94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_2839259e750985f475ea5e865a0b352a6997d777\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\OpencoreMovil\CardviewJson2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_60cd7e14d3dada804fe4cedd59d4a1d32151aea5\classes.dex" />
+    </item>
+
+</items>
